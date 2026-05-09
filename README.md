@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spectra-logo-white-transparent-cropped.png" alt="SPECTRA Logo" width="600">
+  <img src="assets/spectra-logo.png" alt="SPECTRA Logo" width="600">
 </p>
 
 ---
