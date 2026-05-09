@@ -2,14 +2,6 @@
   <img src="assets/spectra-logo-white-transparent-cropped.png" alt="SPECTRA Logo" width="600">
 </p>
 
-<p align="center">
-  <strong>Systematic Profiling, Exploitation, and Context-Aware Testing for Resilience of AI</strong>
-</p>
-
-<p align="center">
-  <em>A structured methodology for adversarial security testing of enterprise AI systems</em>
-</p>
-
 ---
 
 ## Overview
